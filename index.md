@@ -5,5 +5,5 @@ OS222
 
 * [MYLOG](TXT/mylog.txt)
 * [LINKS](LINKS/)
-* [GitHub](https://github.com/)
+* [GitHub](https://github.com/yforku/os222/)
 
