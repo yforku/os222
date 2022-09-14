@@ -1,9 +1,6 @@
 ---
 permalink: LINKS/
 ---
-# os222
-OS222
+# LINKS
 
-[MYLOG](TXT/mylog.md)
-[LINKS](LINKS/)
-
+tba
