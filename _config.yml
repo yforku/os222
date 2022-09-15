@@ -1,0 +1,12 @@
+version:     "000--15-Sep-2022"
+copyright:   "2022"
+author:      "Yes Fork U"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/yforku/os222/"
+myloglink:   "/TXT/mylog.txt"
+mypublickey: "/TXT/mypubkey.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
