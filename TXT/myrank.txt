@@ -1,5 +1,8 @@
-# WEEKLY 3 of 10 RANKS
+# Rank 3/10
 ZCZC W02 alibaba 
 ZCZC W02 kabayan
 ZCZC W02 kutakada
+ZCZC W03 alibaba 
+ZCZC W03 kabayan
+ZCZC W03 kutakada
 
